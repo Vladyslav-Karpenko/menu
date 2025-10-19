@@ -20,9 +20,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-p {
-  font-size: 14px;
-}
+
 .name-of-dishes {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -31,6 +29,8 @@ p {
 .top-text {
   display: flex;
   justify-content: space-between;
+  font-size: 14px;
+  font-weight: 400;
 }
 .image-1 {
   background-color: aqua;
